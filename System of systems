@@ -1,0 +1,123 @@
+System of systems
+From Wikipedia, the free encyclopedia
+System of systems is a collection of task-oriented or dedicated systems that pool their resources and capabilities together to create a new, more complex system which offers more functionality and performance than simply the sum of the constituent systems. Currently, systems of systems is a critical research discipline for which frames of reference, thought processes, quantitative analysis, tools, and design methods are incomplete.[1] The methodology for defining, abstracting, modeling, and analyzing system of systems problems is typically referred to as system of systems engineering.
+Contents  [hide] 
+1 Proposed descriptions
+1.1 The system-of-systems approach
+1.2 Research
+1.3 Applications
+2 Educational institutions and industry
+3 See also
+4 References
+5 Further reading
+6 External links
+[edit]Proposed descriptions
+
+Commonly proposed descriptions—not necessarily definitions—of systems of systems,[2] are outlined below in order of their appearance in the literature:
+Linking systems into joint system of systems allows for the interoperability and synergism of Command, Control, Computers, Communications, and Information (C4I) and Intelligence, Surveillance and Reconnaissance (ISR) Systems:[3] description in the field of information superiority in modern military.
+System of systems are large-scale concurrent and distributed systems the components of which are complex systems themselves:[4] description in the field of communicating structures and information systems in private enterprise.
+System of systems education involves the integration of systems into system of systems that ultimately contribute to evolution of the social infrastructure:[5] description in the field of education of engineers on the importance of systems and their integration.
+System of systems integration is a method to pursue development, integration, interoperability, and optimization of systems to enhance performance in future battlefield scenarios:[6] description in the field of information intensive systems integration in the military.
+Modern systems that comprise system of systems problems are not monolithic, rather they have five common characteristics: operational independence of the individual systems, managerial independence of the systems, geographical distribution, emergent behavior and evolutionary development:[7] description in the field of evolutionary acquisition of complex adaptive systems in the military.
+Enterprise systems of systems engineering is focused on coupling traditional systems engineering activities with enterprise activities of strategic planning and investment analysis:[8] description in the field of information intensive systems in private enterprise.
+System of systems problems are a collection of trans-domain networks of heterogeneous systems that are likely to exhibit operational and managerial independence, geographical distribution, and emergent and evolutionary behaviors that would not be apparent if the systems and their interactions are modeled separately[9]: description in the field of National Transportation System, Integrated Military and Space Exploration.
+Taken together, all these descriptions suggest that a complete system of systems engineering framework is needed to improve decision support for system of systems problems. Specifically, an effective system of systems engineering framework is needed to help decision makers to determine whether related infrastructure, policy, and/or technology considerations as an interrelated whole are good, bad, or neutral over time.[10] The need to solve system of systems problems is urgent not only because of the growing complexity of today’s grand challenges, but also because such problems require large monetary and resource investments with multi-generational consequences.
+[edit]The system-of-systems approach
+While the individual systems constituting a system of systems can be very different and operate independently, their interactions typically expose and deliver important emergent properties. These emergent patterns have an evolving nature that stakeholders for these problems must recognize, analyze, and understand. The system of systems approach does not advocate particular tools, methods, or practices; instead, it promotes a new way of thinking for solving grand challenges where the interactions of technology, policy, and economics are the primary drivers. System of systems study is related to the general study of designing, complexity and systems engineering, but also brings to the forefront the additional challenge of design.
+Systems of systems typically exhibit the behaviors of complex systems. But not all complex problems fall in the realm of systems of systems. Inherent to system of systems problems are several combinations of traits, not all of which are exhibited by every such problem:[11][12]
+Operational Independence of Elements
+Managerial Independence of Elements
+Evolutionary Development
+Emergent Behavior
+Geographical Distribution of Elements
+Inter-disciplinary Study
+Heterogeneity of Systems
+Networks of Systems
+The first five traits are known as Maier’s criteria[13] for identifying system of systems challenges. The remaining three traits have been proposed from the study of mathematical implications of modeling and analyzing system of systems challenges by Dr. Daniel DeLaurentis[14] and his co-researchers at Purdue University.[15]
+[edit]Research
+Current research into effective approaches to system of systems problems includes:
+Establishment of an effective frame of reference
+Crafting of a unifying lexicon [16]
+Developing effective methodologies to visualize and communicate complex systems [17]
+Study of designing architecture
+Interoperability [18]
+Study of various modeling, simulation, and analysis techniques
+network theory
+agent-based modeling
+general systems theory
+probabilistic robust design (including uncertainty modeling/management)
+object oriented simulation and programming
+multi-objective optimization
+Study of various numerical and visual tools for capturing the interaction of system requirements, concepts, and technologies
+[edit]Applications
+Systems of systems, while still being investigated predominantly in the defense sector, is also seeing application in such fields as national air and auto transportation[19] and space exploration. Other applications where it can be applied include health care, design of the Internet, software integration, and energy management.[20]
+[edit]Educational institutions and industry
+
+Collaboration among wide array of organizations is helping to drive development of defining system of systems problem class and methodology for modeling and analysis of system of systems problems. There are ongoing projects throughout many commercial entities, research institutions, academic programs, and government agencies. Universities working on system-of-systems problems include Purdue University, the Georgia Institute of Technology, Old Dominion University, George Mason University, the University of New Mexico, the Massachusetts Institute of Technology, Naval Postgraduate School, and Carnegie Mellon University. Corporations active in this research are BAE Systems, Northrop Grumman, Boeing, Raytheon, Thales Group, CAE, Saber Astronautics, and Lockheed Martin. The U.S. Federal Aviation Administration, NASA, and Department of Defense (DoD) are some of the government agencies that perform and support research in systems of systems research and applications. For example, DoD recently established the National Centers for System of Systems Engineering[21] to develop a formal methodology for system-of-systems engineering for applications in defense-related projects. In another example, according to the Exploration Systems Architecture Study, NASA established the Exploration Systems Mission Directorate (ESMD) organization to lead the development of a new exploration “system-of-systems” to accomplish the goals outlined by President G.W. Bush in the 2004 Vision for Space Exploration.
+[edit]See also
+
+Inheritance
+Software Library
+Object-oriented programming
+Enterprise systems engineering
+System of systems engineering
+System architecture
+Software architecture
+Enterprise architecture
+Ultra-Large-Scale Systems
+DoDAF
+New Cybernetics
+[edit]References
+
+^ [1][dead link] Popper, S., Bankes, S., Callaway, R., and DeLaurentis, D., System-of-Systems Symposium: Report on a Summer Conversation, July 21–22, 2004, Potomac Institute for Policy Studies, Arlington, VA.
+^ collected partly from: [2] Jamshidi, M., "System-of-Systems Engineering - A Definition," IEEE SMC 2005, 10-12 Oct. 2005.
+^ Manthorpe Jr., W.H., "The Emerging Joint System-of-Systems: A Systems Engineering Challenge and Opportunity for APL," Johns Hopkins APL Technical Digest, Vol. 17, No. 3 (1996), pp. 305–310. [3]
+^ Kotov, V. "Systems-of-Systems as Communicating Structures," Hewlett Packard Computer Systems Laboratory Paper HPL-97-124, (1997), pp. 1–15. [4]
+^ Luskasik, S.J. "Systems, Systems-of-Systems, and the Education of Engineers," Artificial Intelligence for Engineering Design, Analysis, and Manufacturing, Vol. 12, No. 1 (1998), pp. 55-60.
+^ Pei, R.S., "Systems-of-Systems Integration (SoSI) – A Smart Way of Acquiring Army C4I2WS Systems," Proceedings of the Summer Computer Simulation Conference, (2000), pp. 574-579.
+^ Sage, A.P., and C.D. Cuppan. “On the Systems Engineering and Management of Systems of Systems and Federations of Systems,” Information, Knowledge, Systems Management, Vol. 2, No. 4, 2001, pp. 325-345.
+^ Carlock, P.G., and R.E. Fenton. "System-of-Systems (SoS) Enterprise Systems for Information-Intensive Organizations," Systems Engineering, Vol. 4, No. 4 (2001), pp. 242-261.
+^ DeLaurentis, D. “Understanding Transportation as a System of Systems Design Problem,” 43rd AIAA Aerospace Sciences Meeting, Reno, Nevada, January 10–13, 2005. AIAA-2005-0123. [5]
+DeLaurentis, D. A. and Callaway, R. K. “A System of Systems Perspective for Future Public Policy,” Review of Policy Research, Vol. 21, No. 6, 2004. pp. 829-837. [6]
+^ [7] DeLaurentis, D., Callaway, R.K., "A System-of-Systems Perspective for Public Policy Decisions," Review of Public Policy Research, Vol. 21, Issue 6, Nov. 2004, pp. 829-837.
+^ [8] DeLaurentis, D., "Research Foundations," School of Aeronautics and Astronautics, Purdue University, West Lafayette, IN, 2007.
+^ Boardman, John, DiMario, Michael, Sauser, Brian, Verma, Dinesh, "System of Systems Characteristics and Interoperability in Joint Command and Control", Defense Acquisition University, 25–26 July 2006 [9]
+^ Maier, M.W. (1998). "Architecting Principles for System of Systems". Systems Engineering 1 (4): 267-284. Retrieved 2012-12-13.
+^ DeLaurentis, D. “Understanding Transportation as a System of Systems Design Problem,” 43rd AIAA Aerospace Sciences Meeting, Reno, Nevada, January 10–13, 2005. AIAA-2005-0123. [10]
+^ [11] "Systems of Systems (SoS)," College of Engineering, Purdue University, West Lafayette, IN, 2007.
+^ [12] DeLaurentis D., "System of Systems Definition and Vocabulary," School of Aeronautics and Astronautics, Purdue University, West Lafayette, IN, 2007.
+^ Jara, F. (1998, July 24). Visualization systems. Retrieved from web http://www.cs.uml.edu/~fjara/thesis/active/proposal/node6.html on 16 Nov 2011
+^ Curry, Edward. 2012. “System of Systems Information Interoperability Using a Linked Dataspace.” In IEEE 7th International Conference on System of Systems Engineering (SOSE 2012), 101–106.
+^ Parker, J. (2010) “Applying a system of systems approach for improved transportation”. S.A.P.I.EN.S. 3 (2)
+^ Curry, Edward. 2012. “System of Systems Information Interoperability Using a Linked Dataspace.” In IEEE 7th International Conference on System of Systems Engineering (SOSE 2012), 101–106.
+^ National Centers for System-of-Systems Engineering
+[edit]Further reading
+
+Yaneer Bar-Yam and others, The Characteristics and Emerging Behaviors of System-of-Systems in: NECSI: Complex Physical, Biological and Social Systems Project, January 7, 2004.
+Boulding, K.E., "General Systems Theory - The Skeleton of Science," Management Science, Vol. 2, No. 3, ABI/INFORM Global, pp. 197–208.
+Crossley, W.A., System-of-Systems:, Introduction of Purdue University Schools of Engineering's Signature Area.
+DeLaurentis, D. “Understanding Transportation as a System of Systems Design Problem,” 43rd AIAA Aerospace Sciences Meeting, Reno, Nevada, January 10–13, 2005. AIAA-2005-0123.
+J. Lewe, D. Mavris, [13] Foundation for Study of Future Transportation Systems Through Agent-Based Simulation}, in: Proceedings of 24th International Congress of the Aeronautical Sciences (ICAS), Yokohama, Japan, August 2004. Session 8.1.
+Maier, M.W. (1998). "Architecting Principles for System of Systems". Systems Engineering 1 (4): 267-284. Retrieved 2012-12-13.
+Popper, S., Bankes, S., Callaway, R., and DeLaurentis, D., System-of-Systems Symposium: Report on a Summer Conversation, July 21–22, 2004, Potomac Institute for Policy Studies, Arlington, VA. Link is bad!!!
+Held, J.M., The Modelling of Systems of Systems, PhD Thesis, University of Sydney, 2008
+D. Luzeaux & JR Ruault, "Systems of Systems", ISTE Ltd and John Wiley & Sons Inc, 2010
+D. Luzeaux, JR Ruault & JL Wippler, "Complex System and Systems of Systems Engineering", ISTE Ltd and John Wiley & Sons Inc, 2011
+[edit]External links
+
+System of Systems - video IBM
+"A Smarter Planet blog - The Internet of Things and System of Systems". IBM.
+IEEE International Conference on System of Systems Engineering (SoSE)
+System of Systems Engineering Center of Excellence
+System of Systems, Systems Engineering Guide (USD AT&L Aug 2008)
+View page ratings
+Rate this page
+What's this?
+Trustworthy
+Objective
+Complete
+Well-written
+I am highly knowledgeable about this topic (optional)
+
+Submit ratings
+Categories: Systems engineeringSystems theory
