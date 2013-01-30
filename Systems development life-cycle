@@ -1,0 +1,55 @@
+Systems development life-cycle
+From Wikipedia, the free encyclopedia
+  (Redirected from Systems Development Life Cycle)
+For other uses, see SDLC (disambiguation).
+
+
+Model of the Systems Development Life Cycle
+The Systems development life cycle (SDLC), or Software development process in systems engineering, information systems and software engineering, is a process of creating or altering information systems, and the models and methodologies that people use to develop these systems. In software engineering, the SDLC concept underpins many kinds of software development methodologies. These methodologies form the framework for planning and controlling the creation of an information system:[1] the software development process.
+Contents  [hide] 
+1 Overview
+2 History
+3 Systems development phases
+3.1 Investigation
+3.2 System analysis
+3.3 Design
+3.4 Testing
+3.5 Operations and maintenance
+4 Systems analysis and design
+5 Object-oriented analysis
+5.1 Input (sources) for object-oriented design
+6 Systems development life cycle
+6.1 Management and control
+6.2 Work breakdown structured organization
+6.3 Baselines in the SDLC
+6.4 Complementary to SDLC
+7 Strengths and weaknesses
+8 See also
+9 References
+10 Further reading
+11 External links
+[edit]Overview
+
+The Systems development life cycle (SDLC) is a process used by a systems analyst to develop an information system, training, and user (stakeholder) ownership. The SDLC aims to produce a high quality system that meets or exceeds customer expectations, reaches completion within time and cost estimates, works effectively and efficiently in the current and planned Information Technology infrastructure, and is inexpensive to maintain and cost-effective to enhance.[2]
+Computer systems are complex and often (especially with the recent rise of service-oriented architecture) link multiple traditional systems potentially supplied by different software vendors. To manage this level of complexity, a number of SDLC models or methodologies have been created, such as "waterfall"; "spiral"; "Agile software development"; "rapid prototyping"; "incremental"; and "synchronize and stabilize".[3]
+SDLC models can be described along spectrum of agile to iterative to sequential. Agile methodologies, such as XP and Scrum, focus on lightweight processes which allow for rapid changes along the development cycle. Iterative methodologies, such as Rational Unified Process and dynamic systems development method, focus on limited project scope and expanding or improving products by multiple iterations. Sequential or big-design-up-front (BDUF) models, such as Waterfall, focus on complete and correct planning to guide large projects and risks to successful and predictable results[citation needed]. Other models, such as Anamorphic Development, tend to focus on a form of development that is guided by project scope and adaptive iterations of feature development.
+In project management a project can be defined both with a project life cycle (PLC) and an SDLC, during which slightly different activities occur. According to Taylor (2004) "the project life cycle encompasses all the activities of the project, while the systems development life cycle focuses on realizing the product requirements".[4] SDLC (systems development life cycle) is used during the development of an IT project, it describes the different stages involved in the project from the drawing board, through the completion of the project.
+[edit]History
+
+The systems life cycle (SLC) is a methodology used to describe the process for building information systems, intended to develop information systems in a very deliberate, structured and methodical way, reiterating each stage of the life cycle. The systems development life cycle, according to Elliott & Strachan & Radford (2004), "originated in the 1960s, to develop large scale functional business systems in an age of large scale business conglomerates. Information systems activities revolved around heavy data processing and number crunching routines".[5]
+Several systems development frameworks have been partly based on SDLC, such as the structured systems analysis and design method (SSADM) produced for the UK government Office of Government Commerce in the 1980s. Ever since, according to Elliott (2004), "the traditional life cycle approaches to systems development have been increasingly replaced with alternative approaches and frameworks, which attempted to overcome some of the inherent deficiencies of the traditional SDLC".[5]
+[edit]Systems development phases
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2010)
+The System Development Life Cycle framework provides a sequence of activities for system designers and developers to follow. It consists of a set of steps or phases in which each phase of the SDLC uses the results of the previous one.
+A Systems Development Life Cycle (SDLC) adheres to important phases that are essential for developers, such as planning, analysis, design, and implementation, and are explained in the section below.It include evaluation of present system, information gathering, feasibility study and request approval. A number of system development life cycle (SDLC) models have been created: waterfall, fountain, spiral, build and fix, rapid prototyping, incremental, and synchronize and stabilize. The oldest of these, and the best known, is the waterfall model: a sequence of stages in which the output of each stage becomes the input for the next. These stages can be characterized and divided up in different ways, including the following:[6]
+Preliminary Analysis: The objective of phase 1 is to conduct a preliminary analysis, propose alternative solutions, describe costs and benefits and submit a preliminary plan with recommendations.
+Conduct the preliminary analysis: in this step, you need to find out the organization's objectives and the nature and scope of the problem under study. Even if a problem refers only to a small segment of the organization itself then you need to find out what the objectives of the organization itself are. Then you need to see how the problem being studied fits in with them.
+Propose alternative solutions: In digging into the organization's objectives and specific problems, you may have already covered some solutions. Alternate proposals may come from interviewing employees, clients , suppliers, and/or consultants. You can also study what competitors are doing. With this data, you will have three choices: leave the system as is, improve it, or develop a new system.
+Describe the costs and benefits.
+Systems analysis, requirements definition: Defines project goals into defined functions and operation of the intended application. Analyzes end-user information needs.
+Systems design: Describes desired features and operations in detail, including screen layouts, business rules, process diagrams, pseudocode and other documentation.
+Development: The real code is written here.
+Integration and testing: Brings all the pieces together into a special testing environment, then checks for errors, bugs and interoperability.
+Acceptance, installation, deployment: The final stage of initial development, where the software is put into production and runs actual business.
