@@ -1,0 +1,15 @@
+Algorithm engineering
+From Wikipedia, the free encyclopedia
+
+
+Algorithm engineering is a combination of theoretical algorithm design with real-world data. By taking an algorithm and combining it with an electronic hardware device connected to the real world, you are able to more accurately verify and validate the algorithm results and behavior. The real-world device may be a simple data acquisition or stimulus device or you may take the algorithm and implement it on some embedded platform such as an FPGA or microprocessor that may be similar to the final system design.
+The term "algorithm engineering" was first used with specificity in 1997, with the organization of the first Workshop on Algorithm Engineering (WAE97).[1]
+It has recently been used to help describe the steps in graphical system design: "a modern approach to designing, prototyping, and deploying embedded systems that combines open graphical programming with COTS hardware to dramatically simplify development, resulting in higher-quality designs with a migration to custom design".
+An article from Embedded.com that discusses algorithm engineering with respect to ESL.
+Algorithm engineering refers to the process required to transform a pencil-and-paper algorithm into a robust, efficient, well tested, and easily usable implementation. Thus it encompasses a number of topics, from modeling cache behavior to the principles of good software engineering; its main focus, however, is experimentation. (Algorithm Engineering for Parallel Computation; David A. Bader, Bernard M. E. Moret, and Peter Sanders)[2]
+[edit]Conferences
+
+Some annual conferences have been held for algorithm engineering:
+Workshop on Algorithm Engineering (WAE), since 1997.
+Workshop on Algorithm Engineering and Experimentation (ALENEX), since 1999.
+The 1997 Workshop on Algorithm Engineering (WAE'97) was held in Venice (Italy) on September 11–13, 1997. The Third International Workshop on Algorithm Engineering (WAE'99) was held in London, UK in July 1999.[3] The first Workshop on Algorithm Engineering and Experimentation (ALENEX99) was held in Baltimore, Maryland on January 15–16, 1999.[4] It was sponsored by DIMACS, the Center for Discrete Mathematics and Theoretical Computer Science (at Rutgers University), with additional support from SIGACT, the ACM Special Interest Group on Algorithms and Computation Theory, and SIAM, the Society for Industrial and Applied Mathematics.[4]
