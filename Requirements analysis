@@ -1,0 +1,21 @@
+Requirements analysis
+From Wikipedia, the free encyclopedia
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2011)
+
+
+A systems engineering perspective on requirements analysis.[1]
+Software development process
+
+A software engineer programming at work
+Activities and steps
+Requirements Specification Architecture Design Implementation Testing Debugging Deployment Maintenance
+Methodologies
+Waterfall Prototype model Incremental Iterative V-Model Spiral Scrum Cleanroom RAD DSDM RUP XP Agile Lean Dual Vee Model TDD FDD
+Supporting disciplines
+Configuration management Documentation Quality assurance (SQA) Project management User experience design
+Tools
+Compiler Debugger Profiler GUI designer IDE Build automation
+v t e
+Requirements analysis in systems engineering and software engineering, encompasses those tasks that go into determining the needs or conditions to meet for a new or altered product, taking account of the possibly conflicting requirements of the various stakeholders, such as beneficiaries or users. It is an early stage in the more general activity of requirements engineering which encompasses all activities concerned with eliciting, analyzing, documenting, validating and managing software or system requirements.[2]
+Requirements analysis is critical to the success of a systems or software project.[3] The requirements should be documented, actionable, measurable, testable, traceable, related to identified business needs or opportunities, and defined to a level of detail sufficient for system design.
